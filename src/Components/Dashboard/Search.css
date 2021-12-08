@@ -1,0 +1,11 @@
+.search-button{
+  height:20px;
+  width:200px;
+  background-color:#FFFFFF;
+  margin-top: 16px;
+}
+@media screen and (max-width:812px){
+  .search-button{
+    display: none;
+  }
+}

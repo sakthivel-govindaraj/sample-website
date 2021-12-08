@@ -1,0 +1,11 @@
+.user-name{
+  height:20px;
+  width:150px;
+  background-color: #ffffff;
+  margin-top: 16px;
+}
+@media screen and (max-width:812px){
+  .user-name{
+    display: none;
+  }
+}

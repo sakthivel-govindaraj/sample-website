@@ -1,0 +1,21 @@
+.table-border{
+  height:200px;
+  width:788px;;
+  margin-top:30px;
+  background-color:#ffffff;
+}
+@media screen and (max-width:1026px){
+  .table-border{
+    width:700px;
+  }
+}
+@media screen and (max-width:898px){
+  .table-border{
+    width:600px;
+  }
+}
+@media screen and (max-width:812px){
+  .table-border{
+    width:100%;
+  }
+}

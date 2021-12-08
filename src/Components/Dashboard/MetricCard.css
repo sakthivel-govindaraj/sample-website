@@ -1,0 +1,31 @@
+.metriccard-align{
+  height:150px;
+  width:150px;
+  background-color: #ffffff;
+
+}
+@media screen and (max-width: 1206px) {
+  .metriccard-align{
+    width:200px;
+  }
+}
+@media screen and (max-width: 1086px) {
+  .metriccard-align{
+    width:240px;
+  }
+}
+@media screen and (max-width: 978px) {
+  .metriccard-align{
+    width:330px;
+  }
+}
+@media screen and (max-width: 896px) {
+  .metriccard-align{
+    width:300px;
+  }
+}
+@media screen and (max-width: 812px) {
+  .metriccard-align{
+    width:100%;
+  }
+}
